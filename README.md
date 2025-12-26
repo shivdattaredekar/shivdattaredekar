@@ -64,5 +64,5 @@ A curated collection of GenAI system designs covering inference, RAG, and agent 
 
 ## 📫 Connect
 
-- LinkedIn: *(add your link)*
+- LinkedIn: *([add your link](https://www.linkedin.com/in/shivdatta-redekar-93ab1511a/))*
 - Open to discussions around GenAI system design, architecture, and interviews
