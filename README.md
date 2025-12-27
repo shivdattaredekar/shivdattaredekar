@@ -44,16 +44,6 @@ Key areas include:
 
 ---
 
-## 🧠 Philosophy
-
-I focus on **how systems fail**, not just how they work.
-
-That means:
-- Designing for ambiguity
-- Measuring quality beyond “it looks good”
-- Treating LLMs as **probabilistic components**, not magic APIs
-
----
 
 ## 📂 Featured Repository
 
