@@ -44,14 +44,6 @@ Key areas include:
 
 ---
 
-
-## 📂 Featured Repository
-
-👉 **`genai-systems-in-production`**  (Updating regularly)
-A curated collection of GenAI system designs covering inference, RAG, and agent architectures, built with a production mindset.
-
----
-
 ## 📫 Connect
 
 - LinkedIn: *([link](https://www.linkedin.com/in/shivdatta-redekar-93ab1511a/))*
